@@ -17,7 +17,7 @@ public class Item {
         return  name + ":"
                 + price
                 + "\n"
-                ;
+                 ;
     }
 
     public int getPrice() {
